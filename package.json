@@ -1,0 +1,22 @@
+{
+  "name": "inspurprism",
+  "version": "1.0.0",
+  "description": "only supports json and yaml",
+  "main": "prism.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyanq528/inspur-prism.git"
+  },
+  "keywords": [
+    "prism"
+  ],
+  "author": "mrli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyanq528/inspur-prism/issues"
+  },
+  "homepage": "https://github.com/liyanq528/inspur-prism#readme"
+}
